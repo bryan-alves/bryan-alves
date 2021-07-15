@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 &nbsp;Sobre mim
 
-<p>Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos
+<p></p>
 <!--
 -  **Trabalhando com:**  Desenvolvimento Frontend (React, Redux, Jest, Webpack, Babel, etc) 💻
 -  **Hobbies:** Bons livros :books: | Bons filmes 🎥
