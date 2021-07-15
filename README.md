@@ -12,5 +12,5 @@
 ## 📍 &nbsp;Onde me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/bryan-alves-34543119b/)](https://www.linkedin.com/in/bryan-alves-34543119b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dehmirandac2@gmail.com)](mailto:dehmirandac2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info-bryanalves@gmail.com)](mailto:info-bryanalves@gmail.com)
 
