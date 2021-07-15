@@ -1,18 +1,3 @@
-<!--
-**info-bryanalves/info-bryanalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">Bem vindo ao meu GitHub 😁</h2>
 
 ## 🙋‍♂️ &nbsp;Sobre mim
@@ -20,9 +5,9 @@ Here are some ideas to get you started:
 <p>Dev</p>
 
 ## 👩‍💻 &nbsp;Meus conhecimentos
-  - **Back-end:** ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  - **Back-end:** ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
   
-  - **Front-end:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  - **Front-end:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react) ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 
 ## 📍 &nbsp;Onde me encontrar
 
