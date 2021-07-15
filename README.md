@@ -17,17 +17,20 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 &nbsp;Sobre mim
 
-<!-- <p>Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos</p> -->
-
+<p>Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos
+<!--
 -  **Trabalhando com:**  Desenvolvimento Frontend (React, Redux, Jest, Webpack, Babel, etc) 💻
 -  **Hobbies:** Bons livros :books: | Bons filmes 🎥
 -  **Pergunte-me sobre:** Qualquer coisa! Gosto de ajudar e de aprender coisas novas ✌️
-
-## 🛠 &nbsp;Tech Stack
+-->
+## 👩‍💻 &nbsp;Meus conhecimentos
+  -  **Back-end:**
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+  -  **Front-end:**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
