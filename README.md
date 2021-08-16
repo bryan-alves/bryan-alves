@@ -3,7 +3,7 @@
 ## 🙋‍♂️ &nbsp;Sobre mim
 
 <p>
-  Iniciei na área de desenvolvimento de sistemas em 2012 e nesse período pude aprender diversas coisas além da Programação, como: Análise de requisitos, Modelagem e Banco de dados, Gerenciamento de Servidores Linux, Gerenciamento de equipe, Autogestão e etc. E desde 2014 atuo como Full Stack, com ênfase maior no Back-end. Mas em 2020-atualmente meu foco de estudos passou a ser no Front-end e em breve, Mobile.
+  Iniciei na área de desenvolvimento de sistemas em 2012 e nesse período pude aprender diversas coisas além da Programação, como: Análi- se de requisitos, Modelagem e Banco de dados, Gerenciamento de Servidores Linux, Gerenciamento de equipe, Autogestão e etc. E desde 2014 atuo como Full Stack, com ênfase maior no Back-end. Mas em 2020-atualmente meu foco de estudos passou a ser no Front-end e em breve, Mobile.
 </p>
 
 ## 👩‍💻 &nbsp;Meus conhecimentos
